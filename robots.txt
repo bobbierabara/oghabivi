@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://easikoorim.tolerance-analysis.co.uk/sitemap.xml
